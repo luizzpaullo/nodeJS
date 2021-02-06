@@ -1,0 +1,21 @@
+{
+  "name": "nodeJS",
+  "version": "1.0.0",
+  "description": "Curso NODEJS de Erick Wendel - Free",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizzpaullo/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizzpaullo/nodeJS/issues"
+  },
+  "homepage": "https://github.com/luizzpaullo/nodeJS#readme"
+}
